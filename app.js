@@ -1,6 +1,6 @@
 // ★★★ ここにVercelで取得したURLを設定します！ ★★★
 // Vercelで発行されたURLの末尾に「/api/proxy」を付け加えます。
-const PROXY_URL = 'https://reimagined-broccoli-8ammmetuy-aaaks-projects.vercel.app/api/proxy'; 
+const PROXY_URL = 'https://notion-toggl-proxy-repo.vercel.app/api/proxy'; 
 // 例: https://notion-toggl-proxy.vercel.app/api/proxy
 // ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
 
